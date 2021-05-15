@@ -1,0 +1,2 @@
+Source: http://sdwebx.worldbank.org/climateportal/index.cfm?page=downscaled_data_download&menu=historical
+Description: Monthly rainfall and temperature of Germany from 1991-2015. Attribute 'pr' is Rainfall in (mm) while 'tas' is the average temperature.
